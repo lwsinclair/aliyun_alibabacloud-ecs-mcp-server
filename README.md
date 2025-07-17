@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-aliyun-alibabacloud-ecs-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-aliyun-alibabacloud-ecs-mcp-server)
+
 # alibabacloud-mcp-server
 
 ## Prepare
